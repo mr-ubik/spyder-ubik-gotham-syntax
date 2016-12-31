@@ -5,11 +5,11 @@ Spyder syntax based on my [ubik-syntax for the Atom editor](https://atom.io/them
 
 Suggestions are wholeheartedly welcomed.
 
-#### Screenshot
+### Screenshot
 
 ![Screenshot](./screenshot.png)
 
-#### Installation
+### Installation
 
 Copy the following code inside your __spyder.ini__ file after the other colorschemes.
 
